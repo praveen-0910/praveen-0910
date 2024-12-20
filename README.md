@@ -1,5 +1,5 @@
-
-<img src="snake.svg" alt="Snake animation" />
+<!-- <img src="snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/praveen-0910/praveen-0910/output/snake.svg" alt="Snake animation" />
 <br clear="both">
 <h2 align="left">🚧 404: Bio Not Found</h2>
 <h4 align="left">Hey there!<br>I’m Praveen, an SDE-II at McKinsey & Company, transforming complex ideas into impactful digital solutions. 🚀✨</h4>
@@ -22,6 +22,7 @@
 </div>
 
 ###
+
 <br clear="both">
 <h2 align="left">🧙‍♂️ Tools I Pretend to Master</h2>
 <br clear="both">
@@ -62,5 +63,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="40" style="margin: 20px; border: 1px solid black; border-radius: 2px;" alt="redux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="40" style="margin: 20px; border: 1px solid black; border-radius: 2px;" alt="sass logo" />
 </div>
-
-
