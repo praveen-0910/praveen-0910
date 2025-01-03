@@ -2,7 +2,7 @@
 <!-- <img src="https://raw.githubusercontent.com/praveen-0910/praveen-0910/output/snake.svg" alt="Snake animation" /> -->
 <br clear="both">
 <h2 align="left">🚧 404: Bio Not Found</h2>
-<h4 align="left">Hey there!<br>I’m Praveen, an SDE-II at McKinsey & Company, transforming complex ideas into impactful digital solutions. 🚀✨</h4>
+<h4 align="left">Hey there!<br>I’m Praveen, an SDE-II, transforming complex ideas into impactful digital solutions. 🚀✨</h4>
 <br clear="both">
 <!-- <h2 align="left">📡 Stalking Headquarters</h2> -->
 <!-- <div align="left">
