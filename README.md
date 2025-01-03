@@ -4,7 +4,7 @@
 <h2 align="left">🚧 404: Bio Not Found</h2>
 <h4 align="left">Hey there!<br>I’m Praveen, an SDE-II at McKinsey & Company, transforming complex ideas into impactful digital solutions. 🚀✨</h4>
 <br clear="both">
-<h2 align="left">📡 Stalking Headquarters</h2>
+<!-- <h2 align="left">📡 Stalking Headquarters</h2> -->
 <!-- <div align="left">
   <a href="https://www.instagram.com/pr__veen" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
